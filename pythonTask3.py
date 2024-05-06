@@ -95,7 +95,7 @@
 # nums2 = [4, 5, 6]
 
 # if len(nums1) != len(nums2):
-#     print("Listelerin uzunlukları eşit değil.")
+#     print("bərabər deyil")
 # else:
   
 #     total_sum = sum(nums1[i] + nums2[i] for i in range(len(nums1)))
